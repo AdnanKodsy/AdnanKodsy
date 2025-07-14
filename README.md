@@ -14,13 +14,13 @@ I don’t just build apps — I design solutions, automate processes, and consta
 
 ### ⚙️ Tech Playground
 
-Languages:        C#, Java, PHP, JavaScript, PowerShell
-Backend:          ASP.NET Core, Spring Boot
-Frontend:         HTML, CSS, JavaScript (vanilla-style)
-Databases:        MySQL, SQL Server
-DevOps & CI/CD:   PowerShell, GitHub Actions, Jenkins
-Monitoring:       Prometheus, Grafana
-Toolbox:          Git, GitHub, VS Code, IntelliJ, Eclipse
+* Languages:        C#, Java, PHP, JavaScript, PowerShell
+* Backend:          ASP.NET Core, Spring Boot
+* Frontend:         HTML, CSS, JavaScript (vanilla-style)
+* Databases:        MySQL, SQL Server
+* DevOps & CI/CD:   PowerShell, GitHub Actions, Jenkins
+* Monitoring:       Prometheus, Grafana
+* Toolbox:          Git, GitHub, VS Code, IntelliJ, Eclipse
 
 
 ---
