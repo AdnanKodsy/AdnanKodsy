@@ -62,5 +62,5 @@ Toolbox:          Git, GitHub, VS Code, IntelliJ, Eclipse
 
 ---
 
-<p align="center">Thanks for stopping by! ⭐️ Feel free to check out my pinned projects below ↓</p>
+<p align="center">Thanks for stopping by! </p>
 ```
