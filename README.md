@@ -36,7 +36,6 @@ Toolbox:          Git, GitHub, VS Code, IntelliJ, Eclipse
 ### ✨ Some Things I’ve Built or Broke (and Fixed)
 
 - 🧾 Reporting tools built with **Spring Boot**, served fast and clean  
-- 🛒 E-commerce logic that understands **Books, DVDs, and Furniture**, all in one  
 - 🧼 Legacy to modern: Migrated VBScript logic into maintainable **.NET** code  
 - 🧙‍♂️ Custom control design in .NET with reflection and a sprinkle of magic  
 - 🚀 Deployment pipelines built with **PowerShell**, **Jenkins**, and **GitHub Actions**
