@@ -1,62 +1,67 @@
-# 👋 Hi, I'm Abdelrahman Adnan
-
-I'm a passionate **Software Engineer** with experience in designing and building robust applications using **.NET**, **Spring Boot**, and **PHP**. I enjoy writing clean, maintainable code and creating backend systems that are scalable and easy to work with.
-
----
-
-## 🚀 Tech Stack
-
-- **Languages:** C#, Java, PHP, JavaScript, PowerShell  
-- **Backend Frameworks:** ASP.NET Core, Spring Boot  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Databases:** MySQL, SQL Server  
-- **DevOps & Automation:** PowerShell, **GitHub Actions**, **Jenkins**  
-- **Monitoring:** Prometheus, Grafana  
-- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Eclipse  
+<h1 align="center">Hey there 👋, I'm Abdelrahman Adnan</h1>
+<p align="center">💡 Curious developer, backend enthusiast, and passionate builder of things.</p>
 
 ---
 
-## 🧠 What I'm Passionate About
+### 🛠️ About Me
 
-- Building scalable backend systems  
-- Clean architecture and OOP principles  
-- DevOps automation using **PowerShell**, **GitHub Actions**, and **Jenkins**  
-- Creating modular APIs and custom backend tools  
-- Collaborating in Agile environments with cross-functional teams  
+I'm a software engineer who finds joy in crafting clean, reliable, and scalable systems.  
+Whether it's building powerful APIs in **.NET**, weaving business logic with **Spring Boot**, or assembling full solutions in **PHP**, I believe good code is both art and structure.
 
----
-
-## 🌱 Currently Exploring
-
-- 🔧 Learning **containerization** technologies like **Docker** and **Kubernetes** to enhance deployment and scalability  
-- 🤝 Exploring **open source contributions** on GitHub to help solve real-world problems and learn from community-driven development  
+I don’t just build apps — I design solutions, automate processes, and constantly seek better ways to connect logic with purpose.
 
 ---
 
-## 📌 Projects & Experience Highlights
+### ⚙️ Tech Playground
 
-- Developed and maintained Spring Boot microservices for internal reporting  
-- Built dynamic backend logic for e-commerce using PHP and MySQL with product-specific attributes  
-- Migrated legacy VBScript systems to modern .NET for maintainability  
-- Automated deployments and system configuration using **PowerShell**, **Jenkins**, and **GitHub Actions**  
-- Designed custom controls and specialized logic using reflection in .NET applications  
+Languages:        C#, Java, PHP, JavaScript, PowerShell
+Backend:          ASP.NET Core, Spring Boot
+Frontend:         HTML, CSS, JavaScript (vanilla-style)
+Databases:        MySQL, SQL Server
+DevOps & CI/CD:   PowerShell, GitHub Actions, Jenkins
+Monitoring:       Prometheus, Grafana
+Toolbox:          Git, GitHub, VS Code, IntelliJ, Eclipse
 
----
-
-## 🌍 Fun Facts
-
-- Love solving complex backend problems and simplifying workflows  
-- Always exploring new technologies to improve productivity and maintainability
-- 🎮 Outside of coding, I’m a competitive gamer — **Diamond rank in Rocket League** and a dedicated **Mid Laner in League of Legends**  
 
 ---
 
-## 📫 Let's Connect
+### 🌱 Growing Into...
 
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adnan/)  
-- Email: abdelrahmanadnan.m@gmail.com  
-- Portfolio/Website: *coming soon*
+- 🐳 **Docker** & **Kubernetes** — because containers are the new servers  
+- 🧩 Contributing to open-source — real problems, real people, real impact  
+- ⚡ Experimenting with architecture patterns and deployment pipelines  
 
 ---
 
-Thanks for stopping by!
+### ✨ Some Things I’ve Built or Broke (and Fixed)
+
+- 🧾 Reporting tools built with **Spring Boot**, served fast and clean  
+- 🛒 E-commerce logic that understands **Books, DVDs, and Furniture**, all in one  
+- 🧼 Legacy to modern: Migrated VBScript logic into maintainable **.NET** code  
+- 🧙‍♂️ Custom control design in .NET with reflection and a sprinkle of magic  
+- 🚀 Deployment pipelines built with **PowerShell**, **Jenkins**, and **GitHub Actions**
+
+---
+
+### 🌍 A Few Fun Bits About Me
+
+- ✈️ Flew to Munich once — turns out tech talk is universal  
+- 📐 I treat clean architecture like a puzzle. Every piece has to fit just right  
+- 🎮 Mid laner in **League of Legends**, strategist on and off the Rift  
+- 🚗 **Diamond rank in Rocket League** — car soccer is serious business  
+- 🔧 I build with tech, curiosity, and the occasional late-night "what if?"
+
+---
+
+### 📫 Let's Connect
+
+> I’m always up for new ideas, collaborations, or a good tech conversation.
+
+- 📧 **Email:** abdelrahmanadnan.m@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/abdelrahman-adnan/)  
+- 🌐 Portfolio: *coming soon*
+
+---
+
+<p align="center">Thanks for stopping by! ⭐️ Feel free to check out my pinned projects below ↓</p>
+```
